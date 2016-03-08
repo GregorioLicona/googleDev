@@ -1,0 +1,3 @@
+# Module googleapp
+# RPC service class, partial path of RPC policy file
+ms.com.mx.client.GreetingService, 2EAF1AA41E35CAE7C0D32E5018605D9B.gwt.rpc

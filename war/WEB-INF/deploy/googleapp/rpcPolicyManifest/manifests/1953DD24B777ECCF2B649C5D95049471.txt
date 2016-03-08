@@ -1,0 +1,2 @@
+serviceClass: ms.com.mx.client.GreetingService
+path: 2EAF1AA41E35CAE7C0D32E5018605D9B.gwt.rpc
